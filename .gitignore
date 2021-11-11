@@ -238,3 +238,10 @@ venv/
 *.png
 *.jpeg
 *.jpg
+*.jpeg
+*.jfif
+*.gif
+*.pmf
+*.tif
+*.tiff
+
