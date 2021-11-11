@@ -4,7 +4,7 @@ A Desktop program where you can upload images and add a watermark.
 
 ### Why?
 
-This project was created for class: "100 Days of Code: The Complete Python Pro Bootcamp for 2022" (Day 84, Assignment 4: Image Watermarking Desktop App) [https://www.udemy.com/course/100-days-of-code/learn/practice/1251146#questions]()
+This project was created for class: "100 Days of Code: The Complete Python Pro Bootcamp for 2022" (Day 84, Assignment 4: Image Watermarking Desktop App) [https://www.udemy.com/course/100-days-of-code/learn/practice/1251146#questions](https://www.udemy.com/course/100-days-of-code/learn/practice/1251146#questions)
 
 ### MIT License
 
